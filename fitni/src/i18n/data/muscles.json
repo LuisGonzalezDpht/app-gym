@@ -1,0 +1,56 @@
+{
+  "pierna": [
+    { "es": "Cuádriceps", "en": "Quadriceps" },
+    { "es": "Isquiotibiales", "en": "Hamstrings" },
+    { "es": "Glúteos", "en": "Glutes" },
+    { "es": "Aductores", "en": "Adductors" },
+    { "es": "Abductores", "en": "Abductors" },
+    { "es": "Gemelos", "en": "Calves" },
+    { "es": "Sóleo", "en": "Soleus" },
+    { "es": "Tibial anterior", "en": "Tibialis anterior" }
+  ],
+  "brazos": [
+    { "es": "Bíceps braquial", "en": "Biceps brachii" },
+    { "es": "Braquial anterior", "en": "Brachialis" },
+    { "es": "Braquiorradial", "en": "Brachioradialis" },
+    { "es": "Tríceps braquial", "en": "Triceps brachii" },
+    { "es": "Extensores del antebrazo", "en": "Forearm extensors" },
+    { "es": "Flexores del antebrazo", "en": "Forearm flexors" }
+  ],
+  "espalda": [
+    { "es": "Trapecio superior", "en": "Upper trapezius" },
+    { "es": "Trapecio medio", "en": "Middle trapezius" },
+    { "es": "Trapecio inferior", "en": "Lower trapezius" },
+    { "es": "Dorsal ancho", "en": "Latissimus dorsi" },
+    { "es": "Romboides", "en": "Rhomboids" },
+    { "es": "Erectores espinales", "en": "Erector spinae" },
+    { "es": "Redondo mayor", "en": "Teres major" },
+    { "es": "Redondo menor", "en": "Teres minor" },
+    { "es": "Infraespinoso", "en": "Infraspinatus" }
+  ],
+  "pecho": [
+    { "es": "Pectoral mayor", "en": "Pectoralis major" },
+    { "es": "Pectoral menor", "en": "Pectoralis minor" },
+    { "es": "Serrato anterior", "en": "Serratus anterior" }
+  ],
+  "hombros": [
+    { "es": "Deltoides anterior", "en": "Anterior deltoid" },
+    { "es": "Deltoides lateral", "en": "Lateral deltoid" },
+    { "es": "Deltoides posterior", "en": "Posterior deltoid" },
+    { "es": "Supraespinoso", "en": "Supraspinatus" },
+    { "es": "Subescapular", "en": "Subscapularis" }
+  ],
+  "core": [
+    { "es": "Recto abdominal", "en": "Rectus abdominis" },
+    { "es": "Oblicuo externo", "en": "External oblique" },
+    { "es": "Oblicuo interno", "en": "Internal oblique" },
+    { "es": "Transverso abdominal", "en": "Transversus abdominis" },
+    { "es": "Erectores espinales", "en": "Erector spinae" },
+    { "es": "Multífidos", "en": "Multifidus" }
+  ],
+  "otros": [
+    { "es": "Flexores de la cadera", "en": "Hip flexors" },
+    { "es": "Extensores de la cadera", "en": "Hip extensors" },
+    { "es": "Músculos del cuello", "en": "Neck muscles" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "routine_titulo": {
+    "es": "Primera Rutina",
+    "en": "First Routine"
+  },
+  "routine_subtitulo": {
+    "es": "Crea tu rutina personalizada y comienza a entrenar",
+    "en": "Create your personalized routine and start training"
+  },
+  "routine_button": {
+    "es": "Crear Rutina",
+    "en": "Create Routine"
+  }
+}

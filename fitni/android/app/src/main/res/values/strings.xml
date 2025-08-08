@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">fitni</string>
+    <string name="title_activity_main">fitni</string>
+    <string name="package_name">com.fitni.app</string>
+    <string name="custom_url_scheme">com.fitni.app</string>
+</resources>
