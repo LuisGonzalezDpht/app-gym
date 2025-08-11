@@ -1,4 +1,7 @@
 {
-    "home_titulo": { "es": "Bienvenido", "en": "Welcome" },
-    "home_subtitulo": {"es": "Registra, analiza y mejora tu rendimiento con datos precisos.", "en": "Record, analyze, and improve your performance with accurate data."}
+  "home_titulo": { "es": "¡Bienvenido!", "en": "¡Welcome!" },
+  "home_subtitulo": {
+    "es": "Crea tu rutina y controla tu progreso.",
+    "en": "Create your routine and track your progress."
+  }
 }

@@ -2,6 +2,7 @@
  * interfaces y tipos
  */
 import type I18nInterface from '@/lib/interfaces/i18n.interface'
+import type { lanTypes } from '@/lib/types/i18n.type'
 
 /**
  * archivos
@@ -9,12 +10,13 @@ import type I18nInterface from '@/lib/interfaces/i18n.interface'
 import home from '@/i18n/data/home.json'
 import muscles from '@/i18n/data/muscles.json'
 import routineComp from '@/i18n/data/routineComp.json'
-import type { lanTypes } from '@/lib/types/i18n.type'
+import exercisesComp from '@/i18n/data/exercisesComp.json'
 
 const dataMap: Record<string, I18nInterface> = {
   home,
   muscles,
   routineComp,
+  exercisesComp,
 }
 
 export default function i18n(key: string, lan: lanTypes): string | null {
